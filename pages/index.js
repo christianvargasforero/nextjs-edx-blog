@@ -12,10 +12,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>En eDx creemos que la revolución digital de la radiología es uno de los motores de la transformación de la salud a nivel mundial. La facilidad de acceso, archivo, almacenamiento y transmisión de las imágenes diagnosticas permite diagnósticos mas oportunos y precisos.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          Visitanos en  {' '}
+          <a href="http://www.edx.com.co/"> www.edx.com.co </a> 💻
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

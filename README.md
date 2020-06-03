@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Blog created with NextJs Framwork, for [EDX Tecnologia en salud](http://teleradiologia.com/) 
